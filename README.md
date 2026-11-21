@@ -1,4 +1,4 @@
-# perkusai-com
+# Perkusai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-perkusai-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://perkusai.com/
+Perkusai offers an AI-powered shopping experience, allowing users to describe desired products in plain language. The platform leverages artificial intelligence to match user preferences with millions of items on Amazon, providing curated options within the user’s budget. It aims to simplify online purchasing by translating natural language requests into actionable product selections, enhancing convenience and personalization for shoppers.
+
+**Areas:** Company · AI · Shopping · E-commerce · Personalization
+
+## Perkusai on APIs.io
+
+Everything profiled for Perkusai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/perkusai-com/](https://apis.io/providers/perkusai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Perkusai AI API](https://apis.io/apis/perkusai-com/perkusai-com-ai-api/) — The Ai API from Perkusai — 2 operation(s) for ai.
+- [Perkusai Deals API](https://apis.io/apis/perkusai-com/perkusai-com-deals-api/) — The Deals API from Perkusai — 1 operation(s) for deals.
+- [Perkusai Search API](https://apis.io/apis/perkusai-com/perkusai-com-search-api/) — The Search API from Perkusai — 1 operation(s) for search.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Perkusai Agentic Access](https://apis.io/agentic-access/perkusai-com/perkusai-com-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [AiSearchResult](https://apis.io/schemas/perkusai-com/perkusai-com-ai-search-result/)
+- [ServiceStatus](https://apis.io/schemas/perkusai-com/perkusai-com-service-status/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Perkusai Com Context](https://apis.io/jsonld/perkusai-com/perkusai-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Perkusai API Rules](https://apis.io/rules/perkusai-com/perkusai-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Perkusai Domain Security](https://apis.io/security/perkusai-com/perkusai-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://perkusai.com/)
+- [Terms of service](https://perkusai.com/terms.html)
+- [Privacy policy](https://perkusai.com/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 32.2** — thin · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 52.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 17.0 |
+
+**Agent readiness 28.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/perkusai-com/](https://apis.io/providers/perkusai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Perkusai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/perkusai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
